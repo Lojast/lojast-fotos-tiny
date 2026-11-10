@@ -1,0 +1,5 @@
+Coloque aqui o arquivo da logo da LojaST com o nome:  logo_lojast.png
+
+- Prefira PNG com fundo transparente (ou fundo branco).
+- A logo é colada no canto superior esquerdo de cada foto (e no primeiro canto livre,
+  se o produto ocupar esse canto). Largura: 24% da foto.

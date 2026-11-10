@@ -1,0 +1,8 @@
+.env
+saida/
+perfil-navegador/
+fotos-repo/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
